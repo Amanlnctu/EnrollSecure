@@ -25,7 +25,7 @@
 The idea for this project came during a discussion with Professor Abhishek Dubey at LNCT University. The professor's insights on student login security inspired the development of this application to ensure that only authorized students can access the computer.
 
 ## Requirements
--Python 3.x
--Tkinter (for GUI)
--JSON file containing student data
--logo.png (college logo image)
+- Python 3.x.
+- Tkinter (for GUI).
+- JSON file containing student data.
+- logo.png (college logo image).
