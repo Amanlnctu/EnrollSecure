@@ -78,7 +78,7 @@ if os.path.exists("logo.png"):
     logo_label.pack(pady=10)
 
 # College name
-college_label = tk.Label(frame, text="LNCityUniversity", font=("Arial", 28, "bold"), fg="blue")
+college_label = tk.Label(frame, text="LNCT University", font=("Arial", 28, "bold"), fg="blue")
 college_label.pack(pady=10)
 
 # Entry field
